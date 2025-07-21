@@ -31,4 +31,6 @@ Each model was trained on the provided credit card transaction data, and their p
 
 ## Conclusion 
 Based on the comparative analysis of the various machine learning models, a clear conclusion can be drawn regarding their efficacy in detecting credit card fraud for this project. The evidence from the performance metrics demonstrates that the XGBoost model stands out as the most robust and accurate classifier. It consistently achieved the highest accuracy on both the training and test datasets, which is a critical indicator of its ability to generalize and make reliable predictions on new, unseen data. In contrast, while models like Random Forest and Decision Tree showed high accuracy on the training data, the notable drop in their test data performance suggests they are likely overfitting to the training data. Given these findings, the XGBoost model is conclusively the optimal choice for this fraud detection system.
+<img width="1151" height="616" alt="image" src="https://github.com/user-attachments/assets/26b2ca28-71c9-4b83-9990-e61fde2f6bd0" />
+
 
